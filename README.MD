@@ -10,6 +10,6 @@ The target of this repo is to create a collection of as many usefull code snippe
 
 - replaceMaster
 - saveCredentials
-
+- manage ssh keys (url)
 
 
